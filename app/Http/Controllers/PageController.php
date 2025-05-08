@@ -16,6 +16,6 @@ class PageController extends Controller
     }
     public function register()
     {
-        return view('page.register');
+        // return view('page.register');
     }
 }
